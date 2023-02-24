@@ -9,3 +9,5 @@
 5.Возвращаем новый заполненый массив как результат
  
 ![это блок схема](scheme.png)
+
+<img width="561" alt="scheme" src="https://user-images.githubusercontent.com/119939306/221174262-1efbd111-4238-4a90-a573-229ae3df546e.png">
